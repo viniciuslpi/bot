@@ -1,0 +1,12 @@
+/node_modules
+/build
+!./build/.keep
+/tokens
+/dist
+/tmp
+/out-tsc
+# Only exists if Bazel was run
+/bazel-out
+
+.DS_Store
+Thumbs.db
